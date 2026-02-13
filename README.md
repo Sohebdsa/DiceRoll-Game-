@@ -2,6 +2,10 @@
 
 A simple and fun dice rolling game built with React and Vite.
 
+## 📷 Game Preview
+
+![screenShot](./public/ss/ss.png)
+
 ## 🎮 Features
 
 - Roll a dice and see the result
@@ -62,9 +66,6 @@ Preview the production build:
 npm run preview
 ```
 
-## 📷 Game Preview
-
-![screenShot](./public/ss/ss.png)
 
 ![Dice Game Screenshot](https://via.placeholder.com/800x400?text=Dice+Game+Screenshot)
 
