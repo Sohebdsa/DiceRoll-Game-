@@ -66,9 +66,6 @@ Preview the production build:
 npm run preview
 ```
 
-
-![Dice Game Screenshot](https://via.placeholder.com/800x400?text=Dice+Game+Screenshot)
-
 ## 📁 Project Structure
 
 ```
